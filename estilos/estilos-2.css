@@ -1,0 +1,32 @@
+
+
+
+div p
+{
+    color: DarkOrange;
+}
+
+
+
+div > div
+{
+    background: blue;
+}
+
+
+
+.es
+{
+    background: red;
+}
+
+div + section
+{
+    background: yellow;
+}
+
+div ~ p
+{
+    background: orange;
+    color: green;
+}

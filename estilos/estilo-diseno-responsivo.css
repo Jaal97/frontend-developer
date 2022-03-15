@@ -1,0 +1,10 @@
+div
+{
+    background: blue;
+}
+@media (max-width: 600px) {
+    div
+    {
+        background: red;
+    }
+}

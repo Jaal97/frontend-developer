@@ -1,0 +1,28 @@
+html
+{
+font-size: 62.5%;
+}
+
+body
+{
+margin: 0px;
+}
+
+div
+{
+    width: 100px;
+    height: 100px;
+    background: greenyellow;
+}
+
+p
+{
+    font-size: 2rem;
+}
+
+.container
+{
+    width: 100vw;
+    height: 100vh;
+    background: cornflowerblue;
+}

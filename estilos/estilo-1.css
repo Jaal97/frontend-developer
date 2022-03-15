@@ -1,0 +1,24 @@
+div
+{
+background: palegreen;
+}
+
+.titulo
+{
+color:crimson;
+}
+
+#titulo2
+{
+color: darkorange;
+}
+
+a[href="https://www.pexels.com/es-es/"]
+{
+    color: blue;
+}
+
+*
+{
+    background: gray;
+}
